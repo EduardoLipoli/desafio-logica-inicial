@@ -1,4 +1,4 @@
-let nomeJogador = "Danielly-Joguinho"
+let nomeJogador = "Eduzera"
 let nivelJogador = 6890
 let tipo = ""
 
